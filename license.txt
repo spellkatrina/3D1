@@ -1,0 +1,11 @@
+Model Information:
+* title:	Judy Hopps
+* source:	https://sketchfab.com/3d-models/judy-hopps-3305441ac71e4063b92f2f7aefe442d6
+* author:	anderlenolan (https://sketchfab.com/anderlenolan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Judy Hopps" (https://sketchfab.com/3d-models/judy-hopps-3305441ac71e4063b92f2f7aefe442d6) by anderlenolan (https://sketchfab.com/anderlenolan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
